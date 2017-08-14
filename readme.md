@@ -1,3 +1,3 @@
 
 # 项目预览:
-https://potatoma.github.io/NNGG/public/index.html
+https://zzjohnson.github.io/NNG/public/index.html
